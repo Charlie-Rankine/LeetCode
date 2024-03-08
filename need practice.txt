@@ -1,0 +1,20 @@
+Leetcode stuff i was bad at and need to practice
+
+DP:
+139. Word Break
+279. Perfect Squares
+368. Largest Divisible Subset
+1043. Partition Array for Maximum Sum
+647. Palindromic Substrings
+72. Edit Distance (used GPT)
+
+Priority Queue:
+451. Sort characters by frequency
+1642. Furthest Building You Can Reach
+
+Numbers:
+1291. Sequential Digits
+290. Word Pattern
+
+Breadth First Search:
+1609. Even Odd Tree
