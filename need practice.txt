@@ -7,6 +7,7 @@ DP:
 1043. Partition Array for Maximum Sum
 647. Palindromic Substrings
 72. Edit Distance (used GPT)
+45. Jump Game II
 
 Priority Queue:
 451. Sort characters by frequency
@@ -18,3 +19,6 @@ Numbers:
 
 Breadth First Search:
 1609. Even Odd Tree
+
+Linked List:
+1171. Remove Zero Sum Consecutive Nodes from Linked List
