@@ -17,6 +17,7 @@ Numbers:
 1291. Sequential Digits
 290. Word Pattern
 930. Binary Subarrays with Sum
+57. Insert Interval
 
 Breadth First Search:
 1609. Even Odd Tree
