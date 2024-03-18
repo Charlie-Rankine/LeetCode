@@ -43,6 +43,10 @@ int main() {
   cout << s.minSubArrayLen(1, nums) << endl;
 
   cout << "Test Case 5:" << endl;
+  nums = {19, 13, 9, 19, 11, 12, 17, 9, 18, 13, 11, 18, 7, 9, 10, 15};
+  cout << s.minSubArrayLen(100, nums) << endl;
+
+  cout << "Test Case 6:" << endl;
   nums = {
       702, 133, 963, 930, 988, 791, 711, 823, 97,  184, 306, 929, 162, 84,  923,
       656, 775, 59,  562, 30,  943, 420, 977, 780, 791, 688, 739, 511, 231, 117,
