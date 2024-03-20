@@ -74,9 +74,4 @@ public:
   }
 };
 
-int main() {
-  Solution s;
-  vector<int> v;
-
-  cout << "Test Case 1:" << endl;
-}
+int main() {}
