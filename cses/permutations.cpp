@@ -13,6 +13,7 @@ int main() {
 
   for (int i = 2; i; --i) {
     int n = i;
+
     while (n <= c) {
       cout << n << " ";
 
