@@ -9,6 +9,9 @@ DP:
 72. Edit Distance (used GPT)
 45. Jump Game II
 
+Graph:
+200. Number of Islands`
+
 Priority Queue:
 451. Sort characters by frequency
 1642. Furthest Building You Can Reach
